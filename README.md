@@ -55,7 +55,7 @@ Este repositório contém um backend desenvolvido em Python utilizando **Flask**
 4. **Execute o servidor**:
 
    ```bash
-   python app.py
+   python server.py
    ```
 
 5. **Acesse a API**:
